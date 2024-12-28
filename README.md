@@ -26,6 +26,9 @@ BossShell is a Python-based terminal project designed to enhance productivity an
 - Fast and responsive shell commands.
 - Clean and readable UI.
 
+- <img width="720" alt="Screenshot 2024-12-27 at 11 58 25 PM" src="https://github.com/user-attachments/assets/9d963614-1f04-4271-bcb6-30170a4f637b" />
+
+
 ### Planned Features
 - Customizable shell prompts.
 - Advanced scripting capabilities.
