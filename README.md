@@ -52,6 +52,13 @@ BossShell is a Python-based terminal project designed to enhance productivity an
    ```bash
    python3 main.py
    ```
+4. To exit or quit the shell, type:
+    ```bash
+    exit 0 
+    ```
+    and press Enter.
+   
+    Or you can press 'control + c' keys on macos.
 ---
 
 ## 📚 Usage (Beta)
