@@ -96,10 +96,10 @@ We’d love your contributions to improve BossShell!
 - **Star 🌟 this project** if you like it!
 - **Follow me:**
 
-  - <a href="[https://x/jaydev920](https://github.com/jayanth920)">
+  - <a href="https://github.com/jayanth920" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFjqGPor45q1DECnoBj8zLIDCD_tlgBaPng&s" alt="X Logo" width="50" style="vertical-align:middle;">
     </a>
-  - <a href="https://x/jaydev920">
+  - <a href="https://x.com/jaydev920" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/50278?s=280&v=4" alt="X Logo" width="50" style="vertical-align:middle;">
     </a>
 
